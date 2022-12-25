@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Daniel Yoontae Hwang
     - name: Date of Birth
-      value: 14th March 1879
+      value: August 24, 2000
     - name: Languages
-      value: English, German
+      value: English, (learning, beginner) Korean, (beginner) Spanish
 
 - title: Education
   type: time_table

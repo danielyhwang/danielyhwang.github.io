@@ -2,8 +2,10 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: true
+description: A list of coding projects and their corresponding GitHub repositories that I've contributed to!
+# Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+# Eh... this page makes more sense from the Projects department... Switching over to there.
+nav: false
 nav_order: 3
 ---
 

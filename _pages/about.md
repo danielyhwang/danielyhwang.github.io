@@ -2,24 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: First-Year Math PhD at <a href='https://math.gatech.edu'>Georgia Tech</a>. He/Him/His. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: > 
+    <p>Skiles 146A, School of Mathematics</p>
+    <p>686 Cherry St NW</p>
+    <p>Atlanta, GA, 30332-0160</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+#Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+#Personality: ENFP-T/Chaotic Good
+
+#TODOs: Update profile picture, link to senior thesis.
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a first-year Math PhD at [Georgia Tech](https://math.gatech.edu), with current interests in algebra & algebraic geometry (open to other subjects as well). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my senior thesis under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Other than doing math, I write & perform stand-up comedy, play board & video games, enjoy running & tennis, and scour seminars for free food.
