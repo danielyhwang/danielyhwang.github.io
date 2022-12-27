@@ -6,7 +6,7 @@ subtitle: First-Year Math PhD at <a href='https://math.gatech.edu'>Georgia Tech<
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: May2022_Boston.jpg
   image_circular: false # crops the image to make it circular
   address: > 
     <p>Skiles 146A, School of Mathematics</p>
