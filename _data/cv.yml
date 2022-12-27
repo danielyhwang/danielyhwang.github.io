@@ -26,10 +26,35 @@
       year: 2022
       description:
         - GPA - 3.864/4.000
-        - Double Major in Mathematics and Computer Science; Minor in Theatre Studies
+        - Major in Mathematics and Computer Science; Minor in Theatre Studies
         - 2018 North Carolina Math Scholar (full-tuition scholarship)
 
-#Skipped Coding Experience due to tiredness. 
+- title: Coding Experience
+  type: time_table
+  contents:
+    - title: TSI Developer Intern
+      institution: The Social Institute, Durham, North Carolina
+      year: 2021
+      description:
+        - Performed comprehensive QA review; wrote detailed feedback and bug reports on their platform promoting healthy social media use.
+        - Communicated with the Marketing department; contributed to a website advertising their annual summit.
+          
+    - title: WoTo Backend Engineer
+      institution: Duke University, Durham, North Carolina
+      year: 2020-2021
+      description:
+        - Contributed to the backend of WoTo, a web app designed for scheduling and holding office hours.
+        - Created and tested new endpoints on the backend Express API, restructured a MongoDB database to improve user functionality.
+        #- Notable contributions include a dynamic question template, join/leave functionality, and data filtering based on user type.
+
+    - title: Mobile Developer Intern for Duke Phoenix Project
+      institution: 4th Medical Group, Goldsboro, NC
+      year: 2020
+      description: 
+        - Implemented a redesigned prototype of 4th Medical Group's mobile application using React Native.
+        - Lead engineer on navigation menu allowing users to switch between different screens, along with a new screen and a directory screen.
+        #- Advised other developers with React Native, organized peer programming sessions.
+
 
 - title: Research and Academic Experience
   type: time_table
@@ -38,28 +63,26 @@
       institution: Duke University, Durham, North Carolina
       year: 2019-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Configured and maintained the autograder, starter code, and JUnit test code for Java projects on GitLab and Gradescope.
+        - Troubleshoot assignments, student submissions, and students' use of programming tools, as needed.
+        #- Lead weekly discussions and office hours. Guide small groups through short exercises, encourage familarity with Java and algorithms.
           
     - title: PRUV Fellow and Independent Research
       institution: Duke University, Durham, North Carolina
       year: 2021-2022
       description:
-        - Advisor: Dr. Margaret Regan
-        - title: FFF
-        contents:
-          - Sub-
-          - Sub
+        - Advisor - Dr. Margaret Regan
+        - title: Senior Thesis submitted for Graduation with Distinction.
+          contents:
+            - Researched how to maximize the number of solutions to a parameterized system corresponding to the steady states of the ERK biochemical network for various combinations of parameters.
+            - Utilized homotopy continuation via Bertini to find the pseudo-witness set points of the discriminant locus, which separates the parameter space into distinct regions yielding the same number of real solutions.
+            #- Implemented MATLAB code that repeatedly samples over a 2-dimensional subspace of the parameter space to generate the discrete set of pseudo-witness set points for a given parameterization.
 
     - title: DOMath Research
       institution: Duke University, Durham, North Caroina
       year: 2019
       description: 
-        - Advisors: Prof. Thomas Witelski and Prof. Jeffrey Wong
+        - Advisors - Prof. Thomas Witelski and Prof. Jeffrey Wong
         - Modeled the motion of a slider on top of a body of fluid as a MATLAB simulation using a simplified version of the Navier-Stokes equations.
 
 - title: Skills
