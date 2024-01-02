@@ -29,6 +29,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm a first-year Math PhD at [Georgia Tech](https://math.gatech.edu), with current interests in algebra & algebraic geometry (open to other subjects as well). 
 
-I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my senior thesis under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
+I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my [senior thesis](https://dukespace.lib.duke.edu/dspace/handle/10161/26428) under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
 
 Other than doing math, I write & perform stand-up comedy, play board & video games, enjoy running & tennis, and scour seminars for free food.
