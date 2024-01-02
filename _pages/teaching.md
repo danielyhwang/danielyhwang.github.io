@@ -12,7 +12,7 @@ nav_order: 5
 ## Georgia Tech
 
 ### Teaching Assistant
-- Spring 2024: Math 1553 ??? - Intro to Linear Algebra **HEAD TA**
+- Spring 2024: Math 1553 A03 - Intro to Linear Algebra **HEAD TA**
 - Fall 2023: Math 1553 A05 - Intro to Linear Algebra AND Math 1712 C01 - Survey of Calculus
 - Spring 2023: Math 1554 C01 & C02 - Linear Algebra
 - Fall 2022: Math 1553 A02 - Intro to Linear Algebra
@@ -29,4 +29,4 @@ nav_order: 5
 
 ## Teaching Awards
 - Thank a Teacher Award in Fall 2022, Center of Teaching and Learning, Georgia Tech
-- [Rebecca DeNardis Memorial Award](https://www.cs.duke.edu/news/articles/4144) for Undergraduate Teaching 2022, Duke University, Department of Computer Science
+- [Rebecca DeNardis Memorial Award](https://cs.duke.edu/news/undergraduate-awards-2022) for Undergraduate Teaching 2022, Duke University, Department of Computer Science
