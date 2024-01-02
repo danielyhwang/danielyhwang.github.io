@@ -12,6 +12,8 @@ nav_order: 5
 ## Georgia Tech
 
 ### Teaching Assistant
+- Spring 2024: Math 1553 ??? - Intro to Linear Algebra **HEAD TA**
+- Fall 2023: Math 1553 A05 - Intro to Linear Algebra AND Math 1712 C01 - Survey of Calculus
 - Spring 2023: Math 1554 C01 & C02 - Linear Algebra
 - Fall 2022: Math 1553 A02 - Intro to Linear Algebra
 

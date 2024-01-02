@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: First-Year Math PhD at <a href='https://math.gatech.edu'>Georgia Tech</a>. He/Him/His. 
+subtitle: Second-Year Math PhD at <a href='https://math.gatech.edu'>Georgia Tech</a>. He/Him/His. 
 
 profile:
   align: right
-  image: May2022_Boston.jpg
+  image: May2023_Headshot.png
   image_circular: false # crops the image to make it circular
   address: > 
     <p>Skiles 146A, School of Mathematics</p>
     <p>686 Cherry St NW</p>
     <p>Atlanta, GA, 30332-0160</p>
 
-news: false  # includes a list of news items
+news: false  # includes a list of news items, see _news
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
@@ -27,8 +27,8 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Hello! I'm a first-year Math PhD at [Georgia Tech](https://math.gatech.edu), with current interests in algebra & algebraic geometry (open to other subjects as well). 
+Hello! I'm a second-year Math PhD at [Georgia Tech](https://math.gatech.edu), with current interests in algebra & algebraic geometry.
 
 I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my [senior thesis](https://dukespace.lib.duke.edu/dspace/handle/10161/26428) under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
 
-Other than doing math, I write & perform stand-up comedy, play board & video games, enjoy running & tennis, and scour seminars for free food.
+Other than doing math, I write & perform stand-up comedy, play board & video games, enjoy running, weightlifting, and tennis, and scour seminars for free food. I also dabble in a bunch of other hobbies, most recently Java game development (which is my 2024 resolution).

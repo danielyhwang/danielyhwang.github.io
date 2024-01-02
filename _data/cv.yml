@@ -59,14 +59,17 @@
 - title: Research and Academic Experience
   type: time_table
   contents:
-    - title: Backend Head Teaching Assistant for Data Structures and Algorithms
-      institution: Duke University, Durham, North Carolina
-      year: 2019-2022
+    - title: Student Researcher
+      institution: Los Alamos National Laboratory, Los Alamos, New Mexico
+      year: 2023
       description:
-        - Configured and maintained the autograder, starter code, and JUnit test code for Java projects on GitLab and Gradescope.
-        - Troubleshoot assignments, student submissions, and students' use of programming tools, as needed.
-        #- Lead weekly discussions and office hours. Guide small groups through short exercises, encourage familarity with Java and algorithms.
-          
+        - Advisor - Dr. Laura Monroe
+        - title: Fully Homomorphic Encryption Schemes for Real-World Usage
+          contents:
+            - Performed research on fully homomorphic encryption schemes utilizing novel mathematical techniques and gave an intenral presentation.
+            - Presented a poster at CLSAC 2023 in Annapolis, MD.
+
+
     - title: PRUV Fellow and Independent Research
       institution: Duke University, Durham, North Carolina
       year: 2021-2022
@@ -78,6 +81,15 @@
             - Utilized homotopy continuation via Bertini to find the pseudo-witness set points of the discriminant locus, which separates the parameter space into distinct regions yielding the same number of real solutions.
             #- Implemented MATLAB code that repeatedly samples over a 2-dimensional subspace of the parameter space to generate the discrete set of pseudo-witness set points for a given parameterization.
 
+
+    - title: Backend Head Teaching Assistant for Data Structures and Algorithms
+      institution: Duke University, Durham, North Carolina
+      year: 2019-2022
+      description:
+        - Configured and maintained the autograder, starter code, and JUnit test code for Java projects on GitLab and Gradescope.
+        - Troubleshoot assignments, student submissions, and students' use of programming tools, as needed.
+        #- Lead weekly discussions and office hours. Guide small groups through short exercises, encourage familarity with Java and algorithms.
+          
     - title: DOMath Research
       institution: Duke University, Durham, North Caroina
       year: 2019
