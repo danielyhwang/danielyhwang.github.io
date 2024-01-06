@@ -4,7 +4,7 @@ title: What A Year It's Been
 date: 2024-01-02 4:00:00-0400
 description: an Injury Reserve song, also a brief recollection of 2023
 tags: personal-update #TODO
-categories: weekly #TODO
+categories: weekly yearly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
 ---
