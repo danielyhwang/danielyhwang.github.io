@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baby It's Cold Outside
-date: 2024-01-15 4:00:00-0400
+date: 2024-01-19 4:00:00-0400
 description: A questionable Christmas song, also the worst week of 2024.
 tags: personal-update #TODO
 categories: weekly #TODO
