@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Second-Year Math PhD at <a href='https://math.gatech.edu'>Georgia Tech</a>. He/Him/His. 
+subtitle: Second-Year Math PhD Student at <a href='https://math.gatech.edu'>Georgia Tech</a>. He/Him/His. 
 
 profile:
   align: right
@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Hello! I'm a second-year Math PhD at [Georgia Tech](https://math.gatech.edu), with current interests in algebra & algebraic geometry.
+Hello! I'm a second-year Math PhD student at [Georgia Tech](https://math.gatech.edu), with current interests in algebra & algebraic geometry.
 
 I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my [senior thesis](https://dukespace.lib.duke.edu/dspace/handle/10161/26428) under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
 
