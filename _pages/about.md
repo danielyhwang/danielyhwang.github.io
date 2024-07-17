@@ -29,4 +29,4 @@ I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior 
 
 Other than doing math, I write & perform stand-up comedy, play board & video games (most recently Werewolf, D&D, and SushiGo! Party), enjoy tennis, running, and weightlifting, and scour seminars (and the larger Atlanta region) for food. I also try to dabble in various other hobbies and organizations if I have the time.
 
-As of August 2024, I am the Graduate Student Representative for the School of Mathematics Graduate Committee and a member of the Graduate Student Council. I served one year as an organizer for the 2024 edition of [High School Math Day](https://hsmd.math.gatech.edu).
+As of August 2024, I am the Graduate Student Representative for the School of Mathematics Graduate Committee and a member of the Graduate Student Council. Prior to this position, I served one year as an organizer for the 2024 edition of [High School Math Day](https://hsmd.math.gatech.edu).
