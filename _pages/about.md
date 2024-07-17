@@ -21,10 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 #Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-#Personality: ENFP-T/Chaotic Good
-
-#TODOs: Update profile picture, link to senior thesis.
-
 ---
 
 Hello! I'm a third-year Math PhD student at [Georgia Tech](https://math.gatech.edu). I am interested in algebra, algebraic combinatorics, and algebraic geometry, and am currently working on problems in Ehrhart Theory. My advisor is [Josephine Yu](https://sites.gatech.edu/josephineyu/). 
