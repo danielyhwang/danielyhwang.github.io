@@ -27,6 +27,6 @@ Hello! I'm a third-year Math PhD student at [Georgia Tech](https://math.gatech.e
 
 I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my [senior thesis](https://dukespace.lib.duke.edu/dspace/handle/10161/26428) under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
 
-Other than doing math, I write & perform stand-up comedy, play board & video games (most recently Werewolf, D&D, and SushiGo! Party), enjoy tennis, running, and weightlifting, and scour seminars (and the larger Atlanta region) for food. I also dabble in various other hobbies and organizations if I have the time.
+Other than doing math, I write & perform stand-up comedy, play board & video games (most recently Werewolf, D&D, and SushiGo! Party), enjoy tennis, running, and weightlifting, and scour seminars (and the larger Atlanta region) for food. I also try to dabble in various other hobbies and organizations if I have the time.
 
-As of August 2024, I am the Graduate Student Representative for the School of Mathematics Graduate Committee and a member of the Graduate Student Council. I was an organizer for [High School Math Day](https://hsmd.math.gatech.edu).
+As of August 2024, I am the Graduate Student Representative for the School of Mathematics Graduate Committee and a member of the Graduate Student Council. I served one year as an organizer for the 2024 edition of [High School Math Day](https://hsmd.math.gatech.edu).
