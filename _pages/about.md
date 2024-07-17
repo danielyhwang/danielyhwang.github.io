@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Second-Year Math PhD Student at <a href='https://math.gatech.edu'>Georgia Tech</a>. He/Him/His. 
+subtitle: Third-Year Math PhD Student at <a href='https://math.gatech.edu'>Georgia Tech</a>. He/Him/His. 
 
 profile:
   align: right
-  image: May2023_Headshot.png
+  image: 2024_06_25_profile_picture_popayan.jpg
   image_circular: false # crops the image to make it circular
   address: > 
     <p>Skiles 146A, School of Mathematics</p>
@@ -27,8 +27,10 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Hello! I'm a second-year Math PhD student at [Georgia Tech](https://math.gatech.edu), with current interests in algebra & algebraic geometry.
+Hello! I'm a third-year Math PhD student at [Georgia Tech](https://math.gatech.edu). I am interested in algebra, algebraic combinatorics, and algebraic geometry, and am currently working on problems in Ehrhart Theory. My advisor is [Josephine Yu](https://sites.gatech.edu/josephineyu/). 
 
 I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my [senior thesis](https://dukespace.lib.duke.edu/dspace/handle/10161/26428) under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
 
-Other than doing math, I write & perform stand-up comedy, play board & video games, enjoy running, weightlifting, and tennis, and scour seminars for free food. I also dabble in a bunch of other hobbies, most recently Java game development (which is my 2024 resolution).
+Other than doing math, I write & perform stand-up comedy, play board & video games (most recently Werewolf, D&D, and SushiGo! Party), enjoy tennis, running, and weightlifting, and scour seminars (and the larger Atlanta region) for food. I also dabble in various other hobbies and organizations if I have the time.
+
+As of August 2024, I am the Graduate Student Representative for the School of Mathematics Graduate Committee and a member of the Graduate Student Council. I was an organizer for [High School Math Day](https://hsmd.math.gatech.edu).
