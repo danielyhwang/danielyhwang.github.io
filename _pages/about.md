@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Hello! I'm a third-year Math PhD student at [Georgia Tech](https://math.gatech.edu). I am interested in algebra, algebraic combinatorics, and algebraic geometry, and am currently working on problems in Ehrhart Theory. My advisor is [Josephine Yu](https://sites.gatech.edu/josephineyu/). 
+Hello! I'm a third-year Math PhD student at [Georgia Tech](https://math.gatech.edu). I am interested in algebra, algebraic combinatorics, and algebraic geometry, and am currently working on problems in Ehrhart Theory. My advisor is [Josephine Yu](https://sites.gatech.edu/josephineyu/). I am also a continuing student intern at [Los Alamos National Laboratory](https://lanl.gov) under [Laura Monroe](https://www.linkedin.com/in/laurammonroe).
 
 I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my [senior thesis](https://dukespace.lib.duke.edu/dspace/handle/10161/26428) under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
 
