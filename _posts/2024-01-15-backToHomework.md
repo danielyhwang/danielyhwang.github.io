@@ -6,6 +6,7 @@ description: Second weekly update of 2024, following comps.
 tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
+published: false
 #you can also do redirect: some other place
 ---
 

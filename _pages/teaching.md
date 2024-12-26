@@ -11,7 +11,8 @@ nav_order: 5
 
 ## Georgia Tech
 
-### Teaching Assistant
+### Graduate Teaching Assistant
+- Spring 2025: Math 1712 (Section TBD) - Survey of Calculus
 - Fall 2024: Math 1711 G03 and G05 - Finite Mathematics
 - Spring 2024: Math 1553 A03 - Intro to Linear Algebra **HEAD TA**
 - Fall 2023: Math 1553 A05 - Intro to Linear Algebra AND Math 1712 C01 - Survey of Calculus
@@ -22,7 +23,7 @@ nav_order: 5
 
 ## Duke University
 
-### Teaching Assistant
+### Undergraduate Teaching Assistant
 - Fall 2019 to Spring 2022: Backend Head TA for COMPSCI 201: Data Structures and Algorithms.
 - Spring 2020 to Spring 2021: Help Room Assistant for MATH 221: Linear Algebra and Applications; MATH 212: Multivariable Calculus.
 

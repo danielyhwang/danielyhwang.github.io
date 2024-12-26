@@ -7,6 +7,7 @@ tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
+published: false
 ---
 
 So as hinted from my DC trip, I've been up to a lot ever since arriving back to Atlanta. I've been basically working on a class project nonstop from last Tuesday up until now. It took me a while to get my gears running and type... something, anything. In particular, yesterday, I spent a lot of time working to create a presentation on Beamer. And now it's here, it's beautiful, but... it took a LONG time. I actually don't remember anything else from last week (oh yeah, proctoring, but otherwise, it's been a grind).

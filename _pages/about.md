@@ -6,7 +6,7 @@ subtitle: Third-Year Math PhD Student at <a href='https://math.gatech.edu'>Georg
 
 profile:
   align: right
-  image: 2024_06_25_profile_picture_popayan.jpg
+  image: 2024_12_02_selfie_skiles.jpg
   image_circular: false # crops the image to make it circular
   address: > 
     <p>Skiles 146A, School of Mathematics</p>
@@ -23,10 +23,10 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-Hello! I'm a third-year Math PhD student at [Georgia Tech](https://math.gatech.edu). I am interested in algebra, algebraic combinatorics, and algebraic geometry, and am currently working on problems in Ehrhart Theory. My advisor is [Josephine Yu](https://sites.gatech.edu/josephineyu/). I am also a continuing student intern at [Los Alamos National Laboratory](https://lanl.gov) under [Laura Monroe](https://www.linkedin.com/in/laurammonroe).
+Hello! I'm a third-year Math PhD student at [Georgia Tech](https://math.gatech.edu). I am interested in algebra, algebraic combinatorics, and algebraic geometry, and am currently working on problems in Ehrhart Theory. My advisor is [Josephine Yu](https://sites.gatech.edu/josephineyu/). I am also a continuing student intern at [Los Alamos National Laboratory](https://lanl.gov) under [Laura Monroe](https://www.linkedin.com/in/laurammonroe). I am generously supported by a [GAANN Fellowship](https://cos.gatech.edu/gaann-math) for the 2024-2025 Academic Year (beginning January 2025).
 
 I was born in Daegu, South Korea and raised in Charlotte, North Carolina. Prior to attending Georgia Tech, I attended undergraduate at [Duke](https://duke.edu), where I completed my [senior thesis](https://dukespace.lib.duke.edu/dspace/handle/10161/26428) under my undergraduate advisor [Margaret Regan](https://margaretregan.com).
 
-Other than doing math, I write & perform stand-up comedy, play board & video games (most recently SushiGo! Party and Super Mario Galaxy), enjoy tennis, running, and weightlifting, and scour seminars (and the larger Atlanta region) for food. I also try to dabble in various other hobbies and organizations if I have the time.
+Other than doing math, I write & perform stand-up and improv comedy, play board & video games, enjoy tennis, running, and weightlifting, and scour seminars (and the larger Atlanta region) for food. I also try to dabble in various other events, hobbies, and organizations if I have the time.
 
 As of August 2024, I am the Graduate Student Representative for the School of Mathematics Graduate Committee and a member of the Graduate Student Council. Prior to this position, I served one year as an organizer for the 2024 edition of [High School Math Day](https://hsmd.math.gatech.edu).

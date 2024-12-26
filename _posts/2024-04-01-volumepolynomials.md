@@ -7,6 +7,7 @@ tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
+published: false
 ---
 
 I forgot to write this last week! I had a wonderful spring break with my family in North Carolina, and now I'm back after a 8 hour drive (well, someone else did the driving). This past week I realized how much work I have to do, but it was pretty good nonetheless! Attended a talk by Frank Sottile, played a DnD game, hosted board game night, and even sang choir for a Good Friday service. This past weekend I hung out with my friends unexpectedly at Piedmont Park, made curry (way too salty), went to Easter Sunday service, and finally played some games.

@@ -7,6 +7,7 @@ tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
+published: false
 ---
 
 Oops, forgot to write this. Yeah. Last week was a lot. The past 10 days have been crazy. I hope they get less crazy but no guarantees on that front. I also exercised a lot towards the beginning of the week and by the end of the week I was sore and not wanting to move as much.

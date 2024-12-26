@@ -7,6 +7,7 @@ tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
+published: false
 ---
 
 So I just arrived back to Atlanta from DC! It was the culmination of a wonderful weekend and the break I needed from the academic environment while being... well, surrounded by academics. So I'll mainly be writing about that today.

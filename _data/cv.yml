@@ -15,7 +15,7 @@
       institution: Georgia Institute of Technology, Atlanta, Georgia
       year: 2022 - Present
       description:
-        - GPA: 3.91
+        - GPA - 3.94
         - Third‑year graduate student and Graduate Teaching Assistant for the School of Math, advised by Josephine Yu
     - title: B.S.
       institution: Duke University, Durham, North Carolina
@@ -109,6 +109,36 @@
         - Implemented a redesigned prototype of 4th Medical Group's mobile application using React Native.
         - Lead engineer on navigation menu allowing users to switch between different screens, along with a new screen and a directory screen.
         #- Advised other developers with React Native, organized peer programming sessions.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2018 - 2022
+      items: 
+        - NC Math Scholar - Duke Full-Tuition Scholarship
+        - Excellence in Community Service Award - Duke Math
+        - Rebecca DeNardis Memorial Award - Duke CS
+    - year: 2022 - 2024
+      items: 
+        - Thank-A-Teacher Award - Georgia Tech Math
+        - David Brown Fellowship Award - Georgia Tech Math
+    - year: 2025
+      items:
+        - GAANN Fellowship - Department of Education and Georgia Tech Math
+
+#- title: Skills
+#  type: nested_list
+#  contents:
+#    - title: Programming
+#      items: 
+#        - Java and JUnit
+#        - MERN Stack - MongoDB, Express, Reach, Node.js
+#        - LaTeX
+#    - title: Tools
+#      items:
+#        - Visual Studio Code
+#        - Git
+#        - Postman
 
 #- title: Skills
 #  type: nested_list

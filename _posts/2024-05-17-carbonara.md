@@ -7,6 +7,7 @@ tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
+published: false
 ---
 
 I am back in Atlanta after a relaxing week back in my home state of North Carolina. I did the four questions thing, but that doesn't feel right. It feels better to just summarize the week I've had.

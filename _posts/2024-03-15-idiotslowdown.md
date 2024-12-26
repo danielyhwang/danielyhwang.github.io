@@ -7,6 +7,7 @@ tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
+published: false
 ---
 
 High School Math Day finally happened! I'm free! Well... not exactly. This week I still found myself drowned in work. It's all over now but I need to remind myself to slow down and take it easy.

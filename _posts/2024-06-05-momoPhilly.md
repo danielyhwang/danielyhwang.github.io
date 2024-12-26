@@ -7,6 +7,7 @@ tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
+published: false
 ---
 
 So this summer has presented a lot of opportunities to meet people. I headed over to [MomoCon](https://momocon.com) on Memorial Day Weekend and let out my inner geek/nerd (in terms of fandom) for a few days before recovering on Monday. Last week, I mainly worked on code, attended a few talks from an online conference, performed a comedy set, and sent some grad council emails.

@@ -7,6 +7,7 @@ tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
 #you can also do redirect: some other place
+published: false
 ---
 
 WE'RE DONE! In terms of things we needed to get done, we finished edits to a class project paper, proctored and graded a final exam, and did some last minute research. I'm too tired to write anything else, I'm just going to chill until I depart for North Carolina on Saturday. Do my best to actually relax. I'm bad at it, just to clarify. I still got summer plans to do and emails to check, but I'll try to chill. 

@@ -6,6 +6,7 @@ description: Last day of classes, approaching end of Spring 2024.
 tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
+published: false
 #you can also do redirect: some other place
 ---
 The last day of classes was this Tuesday. Until then, I was kinda going about my normal business AND GETTING RID OF MY INBOX AGHHHH IT TOOK SO LONG TO DECLUTTER. It felt like I was dragging myself through routine classes and events. And then it was over.

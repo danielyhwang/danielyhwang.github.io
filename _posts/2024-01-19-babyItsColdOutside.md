@@ -6,6 +6,7 @@ description: A questionable Christmas song, also the worst week of 2024.
 tags: personal-update #TODO
 categories: weekly #TODO
 giscus_comments: true
+published: false
 #you can also do redirect: some other place
 ---
 
