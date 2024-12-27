@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Living On A Prayer
-date: 2024-12-31 4:00:00-0400
+date: 2024-12-27 4:00:00-0400
 description: We're Halfway There... (2024 End Of Year Recap)
 tags: personal-update #TODO
 categories: weekly yearly #TODO
@@ -58,7 +58,7 @@ As grateful as I am to have traveled the places I've gone, met the people I have
 Well, now that I'm done with classes, I'm trying to set a stricter work-life balance, and for me that roughly means:
 - Morning: focus on Math research and nothing else. For Spring 2025 I'm going to attend a virtual class on computational commutative algebra and algebraic geometry, but that's it for me personally other than my few other commitments (grad council, grad committee, teaching, algebra seminar) - I'm trying to keep them to a reasonable minimum.
 - Afternoon: focus on self-care/writing. Try to exercise more (I got a bit lazy this semester) and fall in love with cooking again (it got taxing this year to take care of myself, but honestly that's kinda what I need to do).
-- Evening: focus on comedy. Go to open mics. Do more improv. Go to events with friends. Atlanta is a good city for this sort of stuff (music/theatre events).
+- Evening: focus on comedy. Go to open mics. Do more improv. Go to events with friends. Atlanta is a good city for this sort of stuff (music/theatre events). (EDIT: But also feel free to stay in if you need to...)
 
 <!-- Miscellaneous hobbies will have to wait for now. They include programming, game programming, learning piano, learning Korean, learning Spanish. If these suffer a bit, that's fine, but they are good places to spend time on. They can be weekend projects. Also running/weightlifting/tennis for exercise + board/video games with friends, especially Crokinole, is great-->
 
