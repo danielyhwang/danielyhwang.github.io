@@ -37,18 +37,19 @@ I'll start back in August 2023, because I consider the past three semesters to a
 ## Travelling
 - Gave a poster at CLSAC 2023 in Annapolis, Maryland, as part of Los Alamos duties. Also attended AMS Southeastern Sectional Fall 2023 in Mobile, Alabama!
 - Attended the AMS Eastern Sectional Spring 2024 in Washington, DC and GTA Philadelphia at Temple University! 
-- Attended ECCO 2024 in Popayan, Colombia! [I wrote a whole blog post about it!](/_posts/2024-07-16-ecco2024.md)
+- Attended ECCO 2024 in Popayan, Colombia! [I wrote a whole blog post about it!](/blog/2024/ecco2024)
 - ...and I hope to travel even more in 2025...
 
 ## And other fun things...
 - Attended all the conventions in Atlanta (DragonCon, MomoCon, Anime Weekend Atlanta)!
 - Went on hikes to Stone Mountain, Sweetwater Creek, and Arabia Mountain in Georgia! Also went to Lake Tahoe with friends! 
 - Hung out with friends. Highlights include GT Football Games, gatherings at Emmy Squared, seeing Hamilton in February, music jams, and hosting my first ever party.
+- Began improv comedy in Fall 2024 - I am now a member of [Let's Try This](https://letstrythis.org) and I look forward to Monday evenings doing improv :D. I also finally got around to doing a few open mics in 2024.
+- <h3>My niece was born this year</h3> and she brings so much joy to our now larger family.
+
 <!-->
 honorable mentions include going to Kinokuniya, myrtle beach, white windmill with winston and tom, other outings to doraville, going to Atlanta Symphony Orchestra, hanging out with friendsin north carolina, korean barbecues, the all-out holiday winter parties and free dinners from GT, going to korean restaurants, my family finally settling in NC, jadenfests and dumpling parties, yosia's bday parties, jake's bday party,  Gathering 4 Gardner, Lazarus, opening Bap That Slaps, going to Korean outings, hanging out with old friends in NC. we don't talk about duke losing twice. 
 -->
-- Began improv comedy in Fall 2024 - I am now a member of [Let's Try This](https://letstrythis.org) and I look forward to Monday evenings doing improv :D. I also finally got around to doing a few open mics in 2024.
-- <h3>**My niece was born this year**</h3> and she brings so much joy to our now larger family.
 
 ## In Summary, Burnout
 
