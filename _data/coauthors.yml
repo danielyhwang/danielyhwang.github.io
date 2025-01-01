@@ -1,3 +1,23 @@
+"Monroe":
+  - firstname: ["Laura", "L.", "L. M.", "Laura Monroe"]
+    url: https://www.linkedin.com/in/laurammonroe
+
+"Isham":
+  - firstname: ["Kelly", "K.", "K. I.", "Kelly Isham"]
+    url: https://sites.google.com/view/kellyisham
+
+"Lakhotia":
+  - firstname: ["Kartik", "K.", "K. L.", "Kartik Lakhotia"]
+    url: https://www.linkedin.com/in/kartiklakhotia
+
+"Dawkins":
+  - firstname: ["Aleyah", "A.", "A. D.", "Aleyah Dawkins"]
+    url: https://aleyahdawkins.github.io/
+
+"Kubicek":
+  - firstname: ["Ales", "A.", "A. K.", "Ales Kubicek"]
+    url: https://ch.linkedin.com/in/akubicek
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
