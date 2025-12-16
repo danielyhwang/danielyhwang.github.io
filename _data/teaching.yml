@@ -1,0 +1,43 @@
+georgia_tech:
+  institution_id: GT
+  institution_name: Georgia Tech
+  title: Graduate Teaching Assistant
+  courses:
+  - course_name: Math 1554 - Linear Algebra
+    course_semester: Spring 2026
+
+  - course_name: Math 1554 - Linear Algebra 
+    course_semester: Fall 2025
+
+  - course_name: Math 1712 - Survey of Calculus
+    course_semester: Spring 2025
+
+  - course_name: Math 1711 - Finite Mathematics
+    course_semester: Fall 2024
+
+  - course_name: Math 1553 - Intro To Linear Algebra
+    course_semester: Spring 2024
+    special_role: HEAD TA
+
+  - course_name: Math 1553 - Linear Algebra AND Math 1712 - Survey of Calculus
+    course_semester: Fall 2023
+
+  - course_name: Math 1554 - Linear Algebra
+    course_semester: Spring 2023
+
+  - course_name: Math 1553 - Intro To Linear Algebra
+    course_semester: Fall 2022
+
+duke:
+  institution_id: Duke
+  institution_name: Duke University
+  title: Undergraduate Teaching Assistant
+
+  courses:
+  - course_name: Math 221 - Linear Algebra and Applications AND Math 212 - Multivariable Calculus
+    course_semester: Spring 2020 to Spring 2021
+    special_role: Help Room Assistant
+
+  - course_name: Compsci 201 - Data Structures and Algorithms 
+    course_semester: Fall 2019 to Spring 2022
+    special_role: Backend Head Teaching Assistant

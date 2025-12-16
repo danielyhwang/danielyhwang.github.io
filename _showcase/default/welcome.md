@@ -14,7 +14,10 @@ date: 2024-01-12 00:01:00 +0800
         I was born in Daegu, South Korea, and raised in Charlotte, North Carolina. 
     </p>
     <p>
-        In my free time, I am an improv and stand-up comedian who performs off and on-campus. I am currently affiliated with the Atlanta Stand-Up Comedy scene, Georgia Tech's improv comedy troupe <a href = "https://letstrythis.org">Let's Try This</a>, and serve as president of Stand Up Club at Georgia Tech (join our <a href = "https://discord.gg/xst4Ukxn8A">Discord</a> if interested!). I have performed in various venues in Atlanta, North Carolina, Berlin, and more. I also play board and video games, enjoy running and weightlifting, hang out with friends, and cook/eat good food. I try to do other things as well.
+        In my free time, I am an improv and stand-up comedian who performs off and on-campus. I am currently affiliated with the Atlanta Stand-Up Comedy scene, Georgia Tech's improv comedy troupe <a href = "https://letstrythis.org">Let's Try This</a>, and serve as president of Stand Up Club at Georgia Tech (join our <a href = "https://discord.gg/xst4Ukxn8A">Discord</a> if interested!). I have performed in various venues in Atlanta, North Carolina, Berlin, and more. 
+    </p>
+    <p>
+        I also play board and video games, enjoy running and weightlifting, hang out with friends, and cook/eat good food. I try to do other things as well when I have the chance.
     </p>
     <!--
     <p>
