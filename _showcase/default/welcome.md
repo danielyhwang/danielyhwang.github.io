@@ -8,7 +8,7 @@ date: 2024-01-12 00:01:00 +0800
     <h2>Welcome to Showcase!</h2>
     <hr />
     <p>
-        This personal page is under construction and serves as my page to talk about everything non-academic related!
+        This personal page will be fully updated later and serves as my page to talk about everything non-academic related!
     </p>
     <p>
         I was born in Daegu, South Korea, and raised in Charlotte, North Carolina. 
@@ -18,6 +18,9 @@ date: 2024-01-12 00:01:00 +0800
     </p>
     <p>
         I also play board and video games, enjoy running and weightlifting, hang out with friends, and cook/eat good food. I try to do other things as well when I have the chance.
+    </p>
+    <p>
+        To contact me about anything comedy, I am <a href = "https://instagram.com/four_eyes_iiii_nerd">four_eyes_iiii_nerd</a> on Instagram.
     </p>
     <!--
     <p>

@@ -34,10 +34,10 @@ duke:
   title: Undergraduate Teaching Assistant
 
   courses:
-  - course_name: Math 221 - Linear Algebra and Applications AND Math 212 - Multivariable Calculus
-    course_semester: Spring 2020 to Spring 2021
-    special_role: Help Room Assistant
-
   - course_name: Compsci 201 - Data Structures and Algorithms 
     course_semester: Fall 2019 to Spring 2022
     special_role: Backend Head Teaching Assistant
+
+  - course_name: Math 221 - Linear Algebra and Applications AND Math 212 - Multivariable Calculus
+    course_semester: Spring 2020 to Spring 2021
+    special_role: Help Room Assistant

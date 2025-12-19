@@ -22,7 +22,7 @@ container_class: container-xl
                 </div>
                 <div class = "row">
                     <div class = "col">
-                        The following is a list of classes I've taught, sorted by university.
+                        The following is a list of classes I've taught, sorted by university. (FYI, bold headers on this page are clickable!)
                         <br>
                         <br>
 
@@ -33,19 +33,121 @@ container_class: container-xl
                             <div class="collapse" id="collapse{{institution.institution_id}}">
                             <div class="card card-body">
                                 <h4>Title/Primary Role: {{institution.title}}</h4>
+                                <ul>
                                 {% for course_hash in institution.courses %}
                                 {% assign course = course_hash[1] %}
-                                <ul>
-                                    <li>{{course.semester}}: {{course.course_name}}</li>
-                                    <li>{{course_hash}}</li>
-                                </ul>
+                                    {% if course_hash.course_url and course_hash.special_role %}
+                                        <li>[<b>{{course_hash.special_role}}]</b> {{course_hash.course_semester}}:  <a href = {{course_hash.course_url}}>{{course_hash.course_name}}</a></li>
+                                    {% elsif course_hash.course_url %}
+                                        <li>{{course_hash.course_semester}}: <a href = {{course_hash.course_url}}>{{course_hash.course_name}}</a></li>
+                                    {% elsif course_hash.special_role %}
+                                        <li>[<b>{{course_hash.special_role}}]</b> {{course_hash.course_semester}}: {{course_hash.course_name}}</li>
+                                    {% else %}
+                                        <li>{{course_hash.course_semester}}: {{course_hash.course_name}}</li>
+                                    {%- endif -%}
                                 {%- endfor -%}
+                                </ul>
                             </div>
                             </div>
                         <br>
 
                         {%- endfor -%}
 
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="d-flex">
+                            <div class="h2 font-weight-normal">
+                                Teaching Awards
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class = "col">
+                        The following is a list of awards I've received for my teaching.
+                        <ul>
+                        {% for award_hash in site.data.teaching_awards %}
+                            <li><a href = {{award_hash.award_url}}>{{award_hash.award_name}}</a>, {{award_hash.award_dept}}, {{award_hash.award_year}}</li>
+                        {%- endfor -%}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</div>
+<br>
+
+<div class="row">
+    <div class="col">
+        <div class="card border-0 shadow-sm bg-white">
+            <div class="card-body p-5">
+                <div class="row">
+                    <div class="col">
+                        <div class="d-flex">
+                            <div class="h2 font-weight-normal">
+                                Service
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class = "col">
+                        The following is a list of positions I am currently serving.
+
+                        <ul>
+                        {% for current_service_hash in site.data.service_current %}
+                            {% if current_service_hash.position_url%}
+                                <li><b><a href = {{current_service_hash.position_url}}>{{current_service_hash.position_title}}</a></b> for {{current_service_hash.position_org}}, {{current_service_hash.position_years}}</li>
+                            {% else %}
+                                <li><b>{{current_service_hash.position_title}}</b> for {{current_service_hash.position_org}}, {{current_service_hash.position_years}}</li>
+                            {% endif %}
+                        {%- endfor -%}
+                        </ul>
+
+                        <div class = "h3" data-toggle="collapse" href="#collapseServicePast" aria-expanded="false" aria-controls="collapseServicePast">Past Service Positions</div>
+
+                        <div class="collapse" id="collapseServicePast">
+                            <div class="card card-body">
+                                <p>The following is a list of positions in which I have served in the past.</p>
+                                <ul>
+                                {% for past_service_hash in site.data.service_past %}
+                                    {% if past_service_hash.position_org_url%}
+                                        <li><b>{{past_service_hash.position_title}}</b> for <a href = {{past_service_hash.position_org_url}}>{{past_service_hash.position_org}}</a>, {{past_service_hash.position_years}}</li>
+                                    {% else %}
+                                        <li><b>{{past_service_hash.position_title}}</b> for {{past_service_hash.position_org}}, {{past_service_hash.position_years}}</li>
+                                    {% endif %}
+                                {%- endfor -%}
+                                </ul>
+                            </div>
+                        </div>
+
+                        <br>
+                        
+
+                        
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col">
+                        <div class="d-flex">
+                            <div class="h2 font-weight-normal">
+                                Service Awards
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class = "row">
+                    <div class = "col">
+                        The following is a list of awards I've received for my service.
+                        <ul>
+                        {% for award_hash in site.data.service_awards %}
+                            <li><a href = {{award_hash.award_url}}>{{award_hash.award_name}}</a>, {{award_hash.award_dept}}, {{award_hash.award_year}}</li>
+                        {%- endfor -%}
+                        </ul>
                     </div>
                 </div>
             </div>
