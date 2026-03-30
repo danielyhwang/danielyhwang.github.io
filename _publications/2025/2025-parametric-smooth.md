@@ -2,8 +2,8 @@
 title:          "Computing parametric weighted Ehrhart polynomial of smooth polytopes"
 date:           2025-11-12 00:02:00 -0500
 selected:       true
-#pub:            "International Conference on Learning Representations (ICLR)"
-pub_pre:        "Submitted to Formal Power Series and Algebraic Combinatorics (FPSAC)"
+pub:            "Formal Power Series and Algebraic Combinatorics (FPSAC)"
+#pub_pre:        "Formal Power Series and Algebraic Combinatorics (FPSAC)"
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
@@ -18,4 +18,5 @@ authors:
 links:
   arXiV Preprint: https://arxiv.org/abs/2511.09744
   Supplementary Materials: https://sites.gatech.edu/weightedehrhart
+  Slides (AMS Sectional): /assets/pdf/AMS_Sectional_Talk_Spring_2026___Georgia_Southern-5.pdf
 ---
