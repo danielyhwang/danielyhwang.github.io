@@ -14,7 +14,7 @@ date: 2025-12-19 00:02:00 -0500
         Prior to entering academia, I was born in Daegu, South Korea, and raised in Charlotte, North Carolina. I no longer live in Charlotte, but I consider N.C. home.
     </p>
     <p>
-        My hobbies include improv and stand-up comedy, board games (current favs: Clank!, Sushi Go!, Crokinole, Wingspan), video games (favs: Persona 5 Royal, Slay The Spire, Mario Kart Wii, Legend of Zelda (in general)), running and weightlifting, and cooking/eating good food.
+        My hobbies include improv and stand-up comedy, board games (current favs: Clank!, Sushi Go!, Crokinole, Wingspan), video games (current favs: Persona 5 Royal, Slay The Spire 1, Mario Kart Wii, Legend of Zelda (in general)), running and weightlifting, and cooking/eating good food.
     </p>
     <!--
     <p>
