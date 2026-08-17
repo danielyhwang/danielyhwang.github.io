@@ -3,6 +3,10 @@ georgia_tech:
   institution_name: Georgia Tech
   title: Graduate Teaching Assistant
   courses:
+  - course_name: TBD
+    course_semester: Fall 2026
+    special_role: Lecture Assistant (LA)
+
   - course_name: Math 1554 - Linear Algebra
     course_semester: Spring 2026
 
