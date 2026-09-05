@@ -18,7 +18,7 @@ github: danielyhwang
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id # (probably do this later?)
+linkedin: daniel-yoontae-hwang # (probably do this later?)
 orcid: 0000-0002-6147-4328
 
 short_bio_text_justify: false
